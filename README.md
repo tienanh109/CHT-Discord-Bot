@@ -20,7 +20,7 @@ CHT Bot is a bot with useful tools for Hex programming and education
 ## Credits:
 ### Developer 
 - tienanh109 (Owner of project)
-- tuananhdzai (Co-owner of project)
+- Kinomoto Sakura (Co-owner of project)
 
 ### Application tools
 - Python
